@@ -6,5 +6,5 @@
 <script>
 src = "./PlayGround.js";
 </script>
-<style src = "./PlayGround.js" scoped>
+<style src ="./PlayGround.css"  scoped>
 </style>
