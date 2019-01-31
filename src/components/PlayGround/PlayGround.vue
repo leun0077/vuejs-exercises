@@ -1,5 +1,7 @@
 <template>
   <div class="hello">
+    <!-- Element UI -->
+    <el-input placeholder="Please input" v-model="nameInput"></el-input>
     <!-- Watch -->
     <input type="text" name="firstName" v-model="nameInput">
     <!-- Computed -->
